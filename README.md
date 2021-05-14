@@ -5,6 +5,6 @@ The main objecting is to learn a bit about some dimensionality reduction techniq
 This README file will be in English but almost everything else in this repository will be in Italian since we are following the class in Italian.
 
 The algorithms we will be working on are:
-* LLE - Local Linear Embedding
+* LLE - Locally Linear Embedding
 * Isomap
 * UMAP - Uniform Manifold Approximation and Projection for Dimension Reduction
